@@ -42,18 +42,18 @@
 }
 
 .card-container {
-  display: flex; /* Hace que las tarjetas se muestren en una fila */
-  gap: 10px; /* Espacio entre las tarjetas */
+  display: flex; 
+  gap: 10px; 
 }
 
 .card {
-  border: 1px solid gray; /* Contorno gris */
+  border: 1px solid gray; 
   padding: 10px;
   text-align: center;
-  width: 250px; /* Ancho fijo para todas las tarjetas */
+  width: 250px; 
 }
 
 .card img {
-  width: 100%; /* Ajusta la imagen al ancho de la tarjeta */
-  height: auto; /* Mantiene la proporción de la imagen */
+  width: 100%; 
+  height: auto; 
 }
